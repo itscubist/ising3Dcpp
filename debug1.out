@@ -1,0 +1,3028 @@
+Probability of Bond is: 0.632121
+Initialized Spins
+******************
+1 | 0   |||||   0 | 1
+0 | 1   |||||   0 | 0
+------------------
+1 | 1   |||||   0 | 0
+0 | 1   |||||   0 | 0
+------------------
+******************
+Considering Neighbors of Spin: 0 0 1
+Checking Neighbour: 1
+Location is: 1 0 1
+Checking Neighbour: 2
+Location is: 1 0 1
+Checking Neighbour: 3
+Location is: 0 1 1
+Checking Neighbour: 4
+Location is: 0 1 1
+Checking Neighbour: 5
+Location is: 0 0 0
+Checking Neighbour: 6
+Location is: 0 0 0
+Queue Size: 0
+Cl Size of the above chain of events is: 1
+******************
+1 | 0   |||||   0 | 1
+0 | 1   |||||   0 | 0
+------------------
+1 | 1   |||||   0 | 0
+0 | 1   |||||   0 | 0
+------------------
+******************
+******************
+1 | 1   |||||   0 | 0
+0 | 1   |||||   0 | 0
+------------------
+1 | 1   |||||   0 | 0
+0 | 1   |||||   0 | 0
+------------------
+******************
+******************
+1 | 1   |||||   0 | 0
+0 | 1   |||||   0 | 0
+------------------
+1 | 1   |||||   0 | 1
+0 | 1   |||||   0 | 0
+------------------
+******************
+Considering Neighbors of Spin: 1 0 1
+Checking Neighbour: 1
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.00839291
+Spin is added to the cluster and marked
+Checking Neighbour: 2
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.682777
+Checking Neighbour: 4
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.624263
+Spin is added to the cluster and marked
+Checking Neighbour: 5
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.728312
+Checking Neighbour: 6
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.188542
+Spin is added to the cluster and marked
+Queue Size: 3
+******************
+1 | 1   |||||   0 | 1
+0 | 1   |||||   0 | 0
+------------------
+1 | 1   |||||   1 | 1
+0 | 1   |||||   0 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 0 1
+Checking Neighbour: 1
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.00839291
+Spin is added to the cluster and marked
+Checking Neighbour: 4
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.682777
+Checking Neighbour: 6
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.624263
+Spin is added to the cluster and marked
+Queue Size: 4
+******************
+1 | 1   |||||   1 | 1
+0 | 1   |||||   0 | 1
+------------------
+1 | 1   |||||   1 | 1
+0 | 1   |||||   0 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 1 1
+Checking Neighbour: 1
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 0
+Checking Neighbour: 6
+Location is: 1 1 0
+Queue Size: 3
+******************
+1 | 1   |||||   1 | 1
+0 | 1   |||||   0 | 1
+------------------
+1 | 1   |||||   1 | 1
+0 | 1   |||||   0 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 0 0
+Checking Neighbour: 1
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 1 0
+Checking Neighbour: 4
+Location is: 1 1 0
+Checking Neighbour: 5
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 2
+******************
+1 | 1   |||||   1 | 1
+0 | 1   |||||   0 | 1
+------------------
+1 | 1   |||||   1 | 1
+0 | 1   |||||   0 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 1 1
+Checking Neighbour: 1
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 1 0
+Checking Neighbour: 6
+Location is: 0 1 0
+Queue Size: 1
+******************
+1 | 1   |||||   1 | 1
+0 | 1   |||||   0 | 1
+------------------
+1 | 1   |||||   1 | 1
+0 | 1   |||||   0 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 0 0
+Checking Neighbour: 1
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 1 0
+Checking Neighbour: 4
+Location is: 0 1 0
+Checking Neighbour: 5
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 0
+Cl Size of the above chain of events is: 6
+******************
+1 | 1   |||||   1 | 1
+0 | 1   |||||   0 | 1
+------------------
+1 | 1   |||||   1 | 1
+0 | 1   |||||   0 | 1
+------------------
+******************
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+******************
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+0 | 0   |||||   0 | 0
+0 | 0   |||||   1 | 0
+------------------
+******************
+Considering Neighbors of Spin: 1 1 0
+Checking Neighbour: 1
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.728312
+Checking Neighbour: 2
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.188542
+Spin is added to the cluster and marked
+Checking Neighbour: 3
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.370662
+Spin is added to the cluster and marked
+Checking Neighbour: 4
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.444479
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   1 | 0
+------------------
+0 | 0   |||||   1 | 0
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 1 0
+Checking Neighbour: 1
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.728312
+Checking Neighbour: 4
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.188542
+Spin is added to the cluster and marked
+Checking Neighbour: 5
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.370662
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 4
+******************
+0 | 0   |||||   1 | 0
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 0
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 0 0
+Checking Neighbour: 1
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.728312
+Checking Neighbour: 6
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.188542
+Spin is added to the cluster and marked
+Queue Size: 4
+******************
+0 | 0   |||||   1 | 0
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 1 1
+Checking Neighbour: 1
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+0 | 0   |||||   1 | 0
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 0 0
+Checking Neighbour: 1
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.728312
+Checking Neighbour: 6
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.188542
+Spin is added to the cluster and marked
+Queue Size: 3
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 1 1
+Checking Neighbour: 1
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 2
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 0 1
+Checking Neighbour: 1
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 1
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 0 1
+Checking Neighbour: 1
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 0
+Cl Size of the above chain of events is: 8
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+******************
+1 | 1   |||||   0 | 0
+1 | 1   |||||   0 | 0
+------------------
+1 | 1   |||||   0 | 0
+1 | 1   |||||   0 | 0
+------------------
+******************
+******************
+1 | 1   |||||   0 | 1
+1 | 1   |||||   0 | 0
+------------------
+1 | 1   |||||   0 | 0
+1 | 1   |||||   0 | 0
+------------------
+******************
+Considering Neighbors of Spin: 0 0 1
+Checking Neighbour: 1
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.444479
+Spin is added to the cluster and marked
+Checking Neighbour: 2
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.717782
+Checking Neighbour: 4
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.819468
+Checking Neighbour: 5
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.503202
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 2
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   0 | 0
+------------------
+1 | 1   |||||   0 | 1
+1 | 1   |||||   0 | 0
+------------------
+******************
+Considering Neighbors of Spin: 1 0 1
+Checking Neighbour: 1
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.444479
+Spin is added to the cluster and marked
+Checking Neighbour: 4
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.717782
+Checking Neighbour: 6
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.819468
+Queue Size: 2
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   0 | 0
+------------------
+1 | 1   |||||   0 | 1
+1 | 1   |||||   0 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 0 0
+Checking Neighbour: 1
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.444479
+Spin is added to the cluster and marked
+Checking Neighbour: 2
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.717782
+Checking Neighbour: 4
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.819468
+Checking Neighbour: 5
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 2
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   0 | 0
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   0 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 1 1
+Checking Neighbour: 1
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.444479
+Spin is added to the cluster and marked
+Checking Neighbour: 2
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.717782
+Checking Neighbour: 6
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.819468
+Queue Size: 2
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   0 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   0 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 0 0
+Checking Neighbour: 1
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.444479
+Spin is added to the cluster and marked
+Checking Neighbour: 4
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 2
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   0 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 1 1
+Checking Neighbour: 1
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.444479
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 2
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 1 0
+Checking Neighbour: 1
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 1
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 1 0
+Checking Neighbour: 1
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 0
+Cl Size of the above chain of events is: 8
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+******************
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+0 | 0   |||||   0 | 0
+0 | 0   |||||   1 | 0
+------------------
+******************
+Considering Neighbors of Spin: 1 1 0
+Checking Neighbour: 1
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.503202
+Spin is added to the cluster and marked
+Checking Neighbour: 2
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.61579
+Spin is added to the cluster and marked
+Checking Neighbour: 4
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.583776
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   1 | 0
+------------------
+0 | 0   |||||   1 | 0
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 1 0
+Checking Neighbour: 1
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.503202
+Spin is added to the cluster and marked
+Checking Neighbour: 4
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.61579
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 4
+******************
+0 | 0   |||||   1 | 0
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 0
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 0 0
+Checking Neighbour: 1
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.503202
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 4
+******************
+0 | 0   |||||   1 | 0
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 1 1
+Checking Neighbour: 1
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+0 | 0   |||||   1 | 0
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 0 0
+Checking Neighbour: 1
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.503202
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 1 1
+Checking Neighbour: 1
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 2
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 0 1
+Checking Neighbour: 1
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 1
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 0 1
+Checking Neighbour: 1
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 0
+Cl Size of the above chain of events is: 8
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+******************
+1 | 1   |||||   0 | 0
+1 | 1   |||||   0 | 0
+------------------
+1 | 1   |||||   0 | 0
+1 | 1   |||||   0 | 0
+------------------
+******************
+******************
+1 | 1   |||||   0 | 0
+1 | 1   |||||   0 | 0
+------------------
+1 | 1   |||||   0 | 0
+1 | 1   |||||   0 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 1 1
+Checking Neighbour: 1
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.696154
+Checking Neighbour: 2
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.346754
+Spin is added to the cluster and marked
+Checking Neighbour: 3
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.0167809
+Spin is added to the cluster and marked
+Checking Neighbour: 4
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.615024
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+1 | 1   |||||   0 | 0
+1 | 1   |||||   0 | 1
+------------------
+1 | 1   |||||   0 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 1 1
+Checking Neighbour: 1
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.696154
+Checking Neighbour: 4
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.346754
+Spin is added to the cluster and marked
+Checking Neighbour: 5
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.0167809
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 4
+******************
+1 | 1   |||||   0 | 1
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   0 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 0 1
+Checking Neighbour: 1
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.696154
+Checking Neighbour: 6
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.346754
+Spin is added to the cluster and marked
+Queue Size: 4
+******************
+1 | 1   |||||   0 | 1
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 1 0
+Checking Neighbour: 1
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+1 | 1   |||||   0 | 1
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 0 1
+Checking Neighbour: 1
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.696154
+Checking Neighbour: 6
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.346754
+Spin is added to the cluster and marked
+Queue Size: 3
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 1 0
+Checking Neighbour: 1
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 2
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 0 0
+Checking Neighbour: 1
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 1
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 0 0
+Checking Neighbour: 1
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 0
+Cl Size of the above chain of events is: 8
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+******************
+******************
+0 | 0   |||||   0 | 1
+0 | 0   |||||   0 | 0
+------------------
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+******************
+Considering Neighbors of Spin: 0 0 1
+Checking Neighbour: 1
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.615024
+Spin is added to the cluster and marked
+Checking Neighbour: 2
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.934795
+Checking Neighbour: 4
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.092324
+Spin is added to the cluster and marked
+Checking Neighbour: 5
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.422659
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   0 | 1
+------------------
+0 | 0   |||||   0 | 1
+0 | 0   |||||   0 | 0
+------------------
+******************
+Considering Neighbors of Spin: 1 0 1
+Checking Neighbour: 1
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.615024
+Spin is added to the cluster and marked
+Checking Neighbour: 4
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.934795
+Checking Neighbour: 6
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.092324
+Spin is added to the cluster and marked
+Queue Size: 4
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   0 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   0 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 1 1
+Checking Neighbour: 1
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.615024
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 4
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   0 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 0 0
+Checking Neighbour: 1
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   0 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 1 1
+Checking Neighbour: 1
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.615024
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 0 0
+Checking Neighbour: 1
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 2
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 1 0
+Checking Neighbour: 1
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 1
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 1 0
+Checking Neighbour: 1
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 0
+Cl Size of the above chain of events is: 8
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+******************
+1 | 1   |||||   0 | 0
+1 | 1   |||||   0 | 0
+------------------
+1 | 1   |||||   0 | 0
+1 | 1   |||||   0 | 0
+------------------
+******************
+******************
+1 | 1   |||||   0 | 0
+1 | 1   |||||   0 | 1
+------------------
+1 | 1   |||||   0 | 0
+1 | 1   |||||   0 | 0
+------------------
+******************
+Considering Neighbors of Spin: 0 1 1
+Checking Neighbour: 1
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.422659
+Spin is added to the cluster and marked
+Checking Neighbour: 2
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.471855
+Spin is added to the cluster and marked
+Checking Neighbour: 4
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.793465
+Checking Neighbour: 6
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.865627
+Queue Size: 2
+******************
+1 | 1   |||||   0 | 1
+1 | 1   |||||   0 | 1
+------------------
+1 | 1   |||||   0 | 0
+1 | 1   |||||   0 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 1 1
+Checking Neighbour: 1
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.422659
+Spin is added to the cluster and marked
+Checking Neighbour: 4
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.471855
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+1 | 1   |||||   0 | 1
+1 | 1   |||||   0 | 1
+------------------
+1 | 1   |||||   0 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 0 1
+Checking Neighbour: 1
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.422659
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   0 | 1
+------------------
+1 | 1   |||||   0 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 0 1
+Checking Neighbour: 1
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.422659
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   0 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 1 0
+Checking Neighbour: 1
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.422659
+Spin is added to the cluster and marked
+Checking Neighbour: 2
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 0 0
+Checking Neighbour: 1
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 2
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 0 0
+Checking Neighbour: 1
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 1
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 1 0
+Checking Neighbour: 1
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 0
+Cl Size of the above chain of events is: 8
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+******************
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+0 | 0   |||||   1 | 0
+0 | 0   |||||   0 | 0
+------------------
+******************
+Considering Neighbors of Spin: 1 0 0
+Checking Neighbour: 1
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.865627
+Checking Neighbour: 2
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.741269
+Checking Neighbour: 3
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.582421
+Spin is added to the cluster and marked
+Checking Neighbour: 4
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.818231
+Checking Neighbour: 6
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.433102
+Spin is added to the cluster and marked
+Queue Size: 2
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 0
+------------------
+******************
+Considering Neighbors of Spin: 1 1 0
+Checking Neighbour: 1
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.865627
+Checking Neighbour: 2
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.741269
+Checking Neighbour: 3
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.582421
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 2
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 0 1
+Checking Neighbour: 1
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.865627
+Checking Neighbour: 2
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.741269
+Checking Neighbour: 3
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 1
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 1 1
+Checking Neighbour: 1
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.865627
+Checking Neighbour: 2
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.741269
+Checking Neighbour: 3
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 0
+Cl Size of the above chain of events is: 4
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+1 | 1   |||||   0 | 0
+1 | 1   |||||   0 | 0
+------------------
+******************
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+1 | 1   |||||   0 | 0
+1 | 1   |||||   0 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 1 1
+Checking Neighbour: 1
+Location is: 0 1 1
+Checking Neighbour: 2
+Location is: 0 1 1
+Checking Neighbour: 3
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.818231
+Checking Neighbour: 4
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.433102
+Spin is added to the cluster and marked
+Checking Neighbour: 5
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.904453
+Checking Neighbour: 6
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.327592
+Spin is added to the cluster and marked
+Queue Size: 2
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+1 | 1   |||||   0 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 0 1
+Checking Neighbour: 1
+Location is: 0 0 1
+Checking Neighbour: 2
+Location is: 0 0 1
+Checking Neighbour: 3
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.818231
+Checking Neighbour: 6
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.433102
+Spin is added to the cluster and marked
+Queue Size: 2
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 1 0
+Checking Neighbour: 1
+Location is: 0 1 0
+Checking Neighbour: 2
+Location is: 0 1 0
+Checking Neighbour: 3
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 1
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 0 0
+Checking Neighbour: 1
+Location is: 0 0 0
+Checking Neighbour: 2
+Location is: 0 0 0
+Checking Neighbour: 3
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 0
+Cl Size of the above chain of events is: 4
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+******************
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+0 | 0   |||||   0 | 1
+0 | 0   |||||   0 | 0
+------------------
+******************
+Considering Neighbors of Spin: 1 0 1
+Checking Neighbour: 1
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.327592
+Spin is added to the cluster and marked
+Checking Neighbour: 2
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.679475
+Checking Neighbour: 4
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.622664
+Spin is added to the cluster and marked
+Checking Neighbour: 5
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.576515
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+0 | 0   |||||   0 | 1
+0 | 0   |||||   0 | 0
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   0 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 0 1
+Checking Neighbour: 1
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.327592
+Spin is added to the cluster and marked
+Checking Neighbour: 4
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.679475
+Checking Neighbour: 6
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.622664
+Spin is added to the cluster and marked
+Queue Size: 4
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   0 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   0 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 1 1
+Checking Neighbour: 1
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.327592
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 4
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   0 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 0 0
+Checking Neighbour: 1
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   0 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 1 1
+Checking Neighbour: 1
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Not added to cluster before
+Rolled: 0.327592
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 0 0
+Checking Neighbour: 1
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 0 0 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 2
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 1 0
+Checking Neighbour: 1
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 1
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 1 0
+Checking Neighbour: 1
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 1 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 0 0
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 0 1 1
+Spins matched: 0 and: 0
+Spin was already in the cluster! skipping...
+Queue Size: 0
+Cl Size of the above chain of events is: 8
+******************
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+0 | 0   |||||   1 | 1
+0 | 0   |||||   1 | 1
+------------------
+******************
+******************
+1 | 1   |||||   0 | 0
+1 | 1   |||||   0 | 0
+------------------
+1 | 1   |||||   0 | 0
+1 | 1   |||||   0 | 0
+------------------
+******************
+******************
+1 | 1   |||||   0 | 0
+1 | 1   |||||   0 | 0
+------------------
+1 | 1   |||||   0 | 0
+1 | 1   |||||   1 | 0
+------------------
+******************
+Considering Neighbors of Spin: 1 1 0
+Checking Neighbour: 1
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.576515
+Spin is added to the cluster and marked
+Checking Neighbour: 2
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.698982
+Checking Neighbour: 4
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.524328
+Spin is added to the cluster and marked
+Checking Neighbour: 5
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.343425
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+1 | 1   |||||   0 | 0
+1 | 1   |||||   1 | 0
+------------------
+1 | 1   |||||   1 | 0
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 1 0
+Checking Neighbour: 1
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.576515
+Spin is added to the cluster and marked
+Checking Neighbour: 4
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.698982
+Checking Neighbour: 6
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.524328
+Spin is added to the cluster and marked
+Queue Size: 4
+******************
+1 | 1   |||||   1 | 0
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 0
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 0 0
+Checking Neighbour: 1
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.576515
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 4
+******************
+1 | 1   |||||   1 | 0
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 1 1
+Checking Neighbour: 1
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+1 | 1   |||||   1 | 0
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 0 0
+Checking Neighbour: 1
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Not added to cluster before
+Rolled: 0.576515
+Spin is added to the cluster and marked
+Checking Neighbour: 6
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 3
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 1 1
+Checking Neighbour: 1
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 0 1 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 2
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 1 0 1
+Checking Neighbour: 1
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 0 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 1 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 1 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 1
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+Considering Neighbors of Spin: 0 0 1
+Checking Neighbour: 1
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 2
+Location is: 1 0 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 3
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 4
+Location is: 0 1 1
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 5
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Checking Neighbour: 6
+Location is: 0 0 0
+Spins matched: 1 and: 1
+Spin was already in the cluster! skipping...
+Queue Size: 0
+Cl Size of the above chain of events is: 8
+******************
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+1 | 1   |||||   1 | 1
+1 | 1   |||||   1 | 1
+------------------
+******************
+******************
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+0 | 0   |||||   0 | 0
+0 | 0   |||||   0 | 0
+------------------
+******************
+Initialized Spins For Exact Solutions
+Exact Result is: 7.8915
+spinSusMean: 6.9584
+spinSusError: 0.0075974
+1st State Still Has: 4322
+cubist@cubist:/media/cubist/files/all/cpp/statmech_project$ 
+
